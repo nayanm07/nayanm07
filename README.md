@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Nayan Mehta</h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdresma.ai%2Fjobs%2Fmern-stack-developer%2F&psig=AOvVaw3yL53fwTPVUjgDFzDsQlOu&ust=1714671698878000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJCZkoKA7YUDFQAAAAAdAAAAABBu">
 
 
 
