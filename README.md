@@ -46,16 +46,10 @@
 </div>
 
 # 📊 GitHub Stats:
-<div align="center">
-    <div style="display: inline-block; width: 33.33%; vertical-align: top;">
-        <img src="https://github-readme-stats.vercel.app/api?username=nayanm07&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="100%">
-    </div>
-    <div style="display: inline-block; width: 33.33%; vertical-align: top;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayanm07&theme=dark&hide_border=false" alt="GitHub Streak Stats" width="100%">
-    </div>
-    <div style="display: inline-block; width: 33.33%; vertical-align: top;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayanm07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="100%">
-    </div>
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github-readme-stats.vercel.app/api?username=nayanm07&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="flex: 1; height: 200px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayanm07&theme=dark&hide_border=false" alt="GitHub Streak" style="flex: 1; height: 200px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayanm07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="flex: 1; height: 200px;">
 </div>
 
 [![](https://visitcount.itsvg.in/api?id=nayanm07&icon=0&color=0)](https://visitcount.itsvg.in)
