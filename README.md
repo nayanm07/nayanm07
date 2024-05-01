@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Nayan Mehta</h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://dresma.ai/wp-content/uploads/2022/01/mern-stack-developer.gif">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/0*FGD6BUzzZs1VJLuY.gif">
 
 
 
