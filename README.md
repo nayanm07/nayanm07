@@ -71,8 +71,21 @@
 <div align="center">
 
 <img src="https://res.cloudinary.com/dggcrjjv8/image/upload/v1750446534/portfolio/app/elpico/q2uipgfnrhsfokubijpg.jpg" width="250" alt="E-Commerce Home">
-<img src="https://via.placeholder.com/300x600/3b82f6/ffffff?text=Product+Details" width="250" alt="Product Details">  
-<img src="https://via.placeholder.com/300x600/1d4ed8/ffffff?text=Shopping+Cart" width="250" alt="Shopping Cart">
+<img src="https://res.cloudinary.com/dggcrjjv8/image/upload/v1750446532/portfolio/app/elpico/zgyefa0fon8gc3pboenc.jpg" width="250" alt="Product Details">  
+<img src="https://res.cloudinary.com/dggcrjjv8/image/upload/v1750446533/portfolio/app/elpico/amjlnvkzg11xhabjy4no.jpg" width="250" alt="Shopping Cart">
+
+<img src="https://res.cloudinary.com/dggcrjjv8/image/upload/v1750446534/portfolio/app/elpico/q2uipgfnrhsfokubijpg.jpg" width="250" alt="E-Commerce Home">
+<img src="https://res.cloudinary.com/dggcrjjv8/image/upload/v1750446532/portfolio/app/elpico/zgyefa0fon8gc3pboenc.jpg" width="250" alt="Product Details">  
+<img src="https://res.cloudinary.com/dggcrjjv8/image/upload/v1750446533/portfolio/app/elpico/amjlnvkzg11xhabjy4no.jpg" width="250" alt="Shopping Cart">
+<img src="https://res.cloudinary.com/dggcrjjv8/image/upload/v1750446534/portfolio/app/elpico/q2uipgfnrhsfokubijpg.jpg" width="250" alt="E-Commerce Home">
+<img src="https://res.cloudinary.com/dggcrjjv8/image/upload/v1750446532/portfolio/app/elpico/zgyefa0fon8gc3pboenc.jpg" width="250" alt="Product Details">  
+<img src="https://res.cloudinary.com/dggcrjjv8/image/upload/v1750446533/portfolio/app/elpico/amjlnvkzg11xhabjy4no.jpg" width="250" alt="Shopping Cart">
+<img src="https://res.cloudinary.com/dggcrjjv8/image/upload/v1750446534/portfolio/app/elpico/q2uipgfnrhsfokubijpg.jpg" width="250" alt="E-Commerce Home">
+<img src="https://res.cloudinary.com/dggcrjjv8/image/upload/v1750446532/portfolio/app/elpico/zgyefa0fon8gc3pboenc.jpg" width="250" alt="Product Details">  
+<img src="https://res.cloudinary.com/dggcrjjv8/image/upload/v1750446533/portfolio/app/elpico/amjlnvkzg11xhabjy4no.jpg" width="250" alt="Shopping Cart">
+<img src="https://res.cloudinary.com/dggcrjjv8/image/upload/v1750446534/portfolio/app/elpico/q2uipgfnrhsfokubijpg.jpg" width="250" alt="E-Commerce Home">
+<img src="https://res.cloudinary.com/dggcrjjv8/image/upload/v1750446532/portfolio/app/elpico/zgyefa0fon8gc3pboenc.jpg" width="250" alt="Product Details">  
+<img src="https://res.cloudinary.com/dggcrjjv8/image/upload/v1750446533/portfolio/app/elpico/amjlnvkzg11xhabjy4no.jpg" width="250" alt="Shopping Cart">
 
 *Clean mobile interface with modern card design and smooth animations*
 
