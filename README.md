@@ -3,6 +3,8 @@
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
 </div>
 
+
+
 <h1 align="center">✨ Nayan Mehta ✨</h1>
 <h3 align="center">🚀 React Native Architect | Mobile Experience Designer 📱</h3>
 
@@ -14,7 +16,7 @@
 
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 ## 👨‍💻 About Me
 
@@ -47,6 +49,10 @@ const nayan = {
   </a>
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/muhammadnurulahsan/muhammadnurulahsan/main/ahsan.gif" width="100%">
+</div>
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -65,16 +71,6 @@ const nayan = {
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
 
-## 📊 GitHub Stats
-
-<div style="display: flex; justify-content: center;" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nayanm07&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayanm07&theme=tokyonight&hide_border=true" width="400">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayanm07&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact" width="400">
-</div>
 
 ## 📱 Featured Mobile Apps
 
@@ -88,25 +84,20 @@ const nayan = {
 
 ### 📲 ShopEase - E-commerce Mobile Experience
 
-<table align="center">
-<tr>
-<td align="center">
-<img src="https://res.cloudinary.com/dggcrjjv8/image/upload/v1750446534/portfolio/app/elpico/q2uipgfnrhsfokubijpg.jpg" width="180" alt="Home Screen"/>
-<br/>
-<sub><b>Home</b></sub>
-</td>
-<td align="center">
-<img src="https://res.cloudinary.com/dggcrjjv8/image/upload/v1750446532/portfolio/app/elpico/zgyefa0fon8gc3pboenc.jpg" width="180" alt="Product View"/>
-<br/>
-<sub><b>Products</b></sub>
-</td>
-<td align="center">
-<img src="https://res.cloudinary.com/dggcrjjv8/image/upload/v1750446533/portfolio/app/elpico/amjlnvkzg11xhabjy4no.jpg" width="180" alt="Shopping Cart"/>
-<br/>
-<sub><b>Cart</b></sub>
-</td>
-</tr>
-</table>
+<div align="center">
+  <img src="https://res.cloudinary.com/dggcrjjv8/image/upload/v1750446534/portfolio/app/elpico/q2uipgfnrhsfokubijpg.jpg" width="230" alt="Home Screen" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://res.cloudinary.com/dggcrjjv8/image/upload/v1750446532/portfolio/app/elpico/zgyefa0fon8gc3pboenc.jpg" width="230" alt="Product View" />
+  &nbsp;&nbsp;&nbsp;
+  
+ 
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Home-0072ff?style=for-the-badge" alt="Home" />
+  <img src="https://img.shields.io/badge/Products-0072ff?style=for-the-badge" alt="Products" />
+  <img src="https://img.shields.io/badge/Cart-0072ff?style=for-the-badge" alt="Cart" />
+</div>
 
 <div align="center">
   <p><i>A next-generation shopping experience built with React Native, Redux, and Firebase</i></p>
@@ -136,25 +127,19 @@ const nayan = {
 
 ### 📲 MeloSync - Music Player App
 
-<table align="center">
-<tr>
-<td align="center">
-<img src="https://cdn.dribbble.com/users/1998175/screenshots/15459984/media/e3d25f4d4d8cfbc5d0ddf93986377953.png?compress=1&resize=400x300&vertical=top" width="180" alt="Music Player"/>
-<br/>
-<sub><b>Player</b></sub>
-</td>
-<td align="center">
-<img src="https://cdn.dribbble.com/users/957817/screenshots/15218951/media/614c9d3f8e7d4b2f3eef097c0636cc8c.png?compress=1&resize=400x300" width="180" alt="Playlists"/>
-<br/>
-<sub><b>Playlists</b></sub>
-</td>
-<td align="center">
-<img src="https://cdn.dribbble.com/users/2525612/screenshots/15874303/media/64e7d695876311e98d01e410717cc3fe.jpg?compress=1&resize=400x300" width="180" alt="Explore"/>
-<br/>
-<sub><b>Explore</b></sub>
-</td>
-</tr>
-</table>
+<div align="center">
+  <img src="https://cdn.dribbble.com/users/1998175/screenshots/15459984/media/e3d25f4d4d8cfbc5d0ddf93986377953.png?compress=1&resize=400x300&vertical=top" width="230" alt="Music Player" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.dribbble.com/users/957817/screenshots/15218951/media/614c9d3f8e7d4b2f3eef097c0636cc8c.png?compress=1&resize=400x300" width="230" alt="Playlists" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.dribbble.com/users/2525612/screenshots/15874303/media/64e7d695876311e98d01e410717cc3fe.jpg?compress=1&resize=400x300" width="230" alt="Explore" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Player-8E2DE2?style=for-the-badge" alt="Player" />
+  <img src="https://img.shields.io/badge/Playlists-8E2DE2?style=for-the-badge" alt="Playlists" />
+  <img src="https://img.shields.io/badge/Explore-8E2DE2?style=for-the-badge" alt="Explore" />
+</div>
 
 <div align="center">
   <p><i>Premium music experience with fluid animations and offline capabilities</i></p>
