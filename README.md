@@ -1,303 +1,256 @@
-<img  alt="Coding"  src="https://camo.githubusercontent.com/371a3bbae1297d47d50006f91fdc0f51f0060b62dbbddbdba1b1b1438bc0f80d/68747470733a2f2f6d617275663030312d6d742e6769746875622e696f2f5072656d69756d2d44656c69766572792f7765622e676966">
-
-<h1 align="center">Hi 👋, I'm Nayan Mehta</h1>
-<h3 align="center">A passionate FullStack Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/0*FGD6BUzzZs1VJLuY.gif">
-
-
-
-- 🔭 I’m currently working on ** Web App**
-
-- 🌱 I’m currently learning **MERN**
-
-
-
-- 📫 How to reach me **nayanmehta2004@gmail.com**
-
-- ⚡ Fun fact **I am Funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/Nayan_Mehta07?t=nag71dtvrfsG_2-ZPWyu8A&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/nayan-mehta-6b3959300/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
-<a href="https://www.instagram.com/nayan._.mehta?igsh=dGZiaXFjaWhkanZm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
-</p>
-
+<!-- Header Animation -->
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
 </div>
 
-# 📊 GitHub Stats:
-<div style="display: flex; justify-content: space-between;" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=nayanm07&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="flex: 1; width:250px; height: 150px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayanm07&theme=dark&hide_border=false" alt="GitHub Streak" style="flex: 1;  width:250px; height: 150px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayanm07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="flex: 1;  width:250px; height: 150px;">
-</div>
-
-# 🚀 **Mobile App Showcase** 
-### *Where Innovation Meets Beautiful Design*
+<h1 align="center">✨ Nayan Mehta ✨</h1>
+<h3 align="center">🚀 React Native Architect | Mobile Experience Designer 📱</h3>
 
 <div align="center">
 
-![Projects](https://img.shields.io/badge/Featured_Projects-2-ff6b6b?style=for-the-badge&logo=mobile&logoColor=white)
-![Platform](https://img.shields.io/badge/Platform-Android-3ddc84?style=for-the-badge&logo=android&logoColor=white)
-![Downloads](https://img.shields.io/badge/Downloads-Available-4ecdc4?style=for-the-badge&logo=download&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=nayanm07&style=for-the-badge&color=1C82AD)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nayanmehta.dev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nayanmehta2004@gmail.com)
 
 </div>
 
----
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-## 🏆 **Featured Applications**
+## 👨‍💻 About Me
+
+```javascript
+const nayan = {
+  location: "India 🇮🇳",
+  currentFocus: "Building cross-platform mobile experiences",
+  learning: ["Advanced React Native Animations", "Native Modules", "MERN"],
+  askMeAbout: ["mobile dev", "UI/UX", "tech", "coffee"],
+  funFact: "I debug with dancing cat GIFs open in another window",
+  dailyRoutine: ["code", "coffee", "more code", "repeat"]
+};
+```
+
+- 🔭 Currently crafting **Beautiful Mobile Experiences**
+- 🌱 Exploring the depths of **React Native & MERN Stack**
+- 📫 Reach me at **nayanmehta2004@gmail.com**
+
+## 🌐 Connect With Me
+
+<div align="center">
+  <a href="https://x.com/Nayan_Mehta07?t=nag71dtvrfsG_2-ZPWyu8A&s=09" target="blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
+  </a>
+  <a href="https://www.linkedin.com/in/nayan-mehta-6b3959300/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a href="https://www.instagram.com/nayan._.mehta?igsh=dGZiaXFjaWhkanZm" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
+  </a>
+</div>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</div>
+
+## 📊 GitHub Stats
+
+<div style="display: flex; justify-content: center;" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nayanm07&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayanm07&theme=tokyonight&hide_border=true" width="400">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayanm07&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact" width="400">
+</div>
+
+## 📱 Featured Mobile Apps
 
 <div align="center">
 
-### 📱 **Project Alpha** - E-Commerce Revolution
-*A next-generation shopping experience that redefines mobile commerce*
+[![React Native](https://img.shields.io/badge/React_Native-Expert-61DAFB?style=for-the-badge&logo=react)](https://reactnative.dev/)
+[![Apps Published](https://img.shields.io/badge/Apps_Published-10+-00C7B7?style=for-the-badge&logo=android)](https://nayanmehta.dev/portfolio)
+[![Downloads](https://img.shields.io/badge/Total_Downloads-100K+-3DDC84?style=for-the-badge&logo=google-play)](https://nayanmehta.dev/metrics)
 
 </div>
+
+### 📲 ShopEase - E-commerce Mobile Experience
 
 <table align="center">
 <tr>
 <td align="center">
-<img src="https://res.cloudinary.com/dggcrjjv8/image/upload/v1750446534/portfolio/app/elpico/q2uipgfnrhsfokubijpg.jpg" width="200" alt="Home Screen"/>
+<img src="https://res.cloudinary.com/dggcrjjv8/image/upload/v1750446534/portfolio/app/elpico/q2uipgfnrhsfokubijpg.jpg" width="180" alt="Home Screen"/>
 <br/>
-<sub><b>🏠 Dynamic Home</b></sub>
+<sub><b>Home</b></sub>
 </td>
 <td align="center">
-<img src="https://res.cloudinary.com/dggcrjjv8/image/upload/v1750446532/portfolio/app/elpico/zgyefa0fon8gc3pboenc.jpg" width="200" alt="Product View"/>
+<img src="https://res.cloudinary.com/dggcrjjv8/image/upload/v1750446532/portfolio/app/elpico/zgyefa0fon8gc3pboenc.jpg" width="180" alt="Product View"/>
 <br/>
-<sub><b>🛍️ Product Explorer</b></sub>
+<sub><b>Products</b></sub>
 </td>
 <td align="center">
-<img src="https://res.cloudinary.com/dggcrjjv8/image/upload/v1750446533/portfolio/app/elpico/amjlnvkzg11xhabjy4no.jpg" width="200" alt="Shopping Cart"/>
+<img src="https://res.cloudinary.com/dggcrjjv8/image/upload/v1750446533/portfolio/app/elpico/amjlnvkzg11xhabjy4no.jpg" width="180" alt="Shopping Cart"/>
 <br/>
-<sub><b>🛒 Smart Cart</b></sub>
+<sub><b>Cart</b></sub>
 </td>
 </tr>
 </table>
 
 <div align="center">
-
-### 🎬 **See It In Action**
-
-https://github.com/user-attachments/assets/[YOUR-VIDEO-ID-HERE]
-
-*Watch the fluid animations and seamless user experience*
-
-### 📥 **Download & Experience**
-
-[![Download APK](https://img.shields.io/badge/Download_APK-FF6B6B?style=for-the-badge&logo=android&logoColor=white)](https://github.com/yourusername/project-alpha/releases/latest/download/project-alpha.apk)
-[![GitHub](https://img.shields.io/badge/View_Source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/project-alpha)
-
-**Features That Shine:**
-- 🎨 **Adaptive UI** - Dark/Light themes with smooth transitions
-- ⚡ **Lightning Fast** - Optimized performance with 60fps animations  
-- 🔒 **Secure Payments** - Industry-standard encryption
-- 🌍 **Offline Mode** - Browse and save favorites without internet
-
+  <p><i>A next-generation shopping experience built with React Native, Redux, and Firebase</i></p>
+  
+  [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com)
+  [![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com)
+  [![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/nayanm07/shopease)
 </div>
 
----
+#### ✨ Key Features:
+- 💯 **100% React Native** with zero native code modifications
+- 🔄 **Animated Transitions** using Reanimated 2
+- 🔍 **Intelligent Product Search** with Algolia
+- 🌙 **Adaptive Theming** with automatic dark mode
+- 🔒 **Secure Payments** via Stripe SDK
 
-<div align="center">
+#### 🛠️ Tech Stack:
+```javascript
+{
+  frontend: ["React Native", "Redux Toolkit", "Reanimated 2"],
+  backend: ["Firebase", "Cloud Functions", "Node.js"],
+  payment: ["Stripe SDK"],
+  analytics: ["Firebase Analytics", "Mixpanel"],
+  testing: ["Jest", "Detox"]
+}
+```
 
-### 🎵 **Project Beta** - Music Streaming Reimagined  
-*Where every beat meets beautiful design*
-
-</div>
+### 📲 MeloSync - Music Player App
 
 <table align="center">
 <tr>
 <td align="center">
-<img src="https://via.placeholder.com/200x400/667eea/ffffff?text=🎵+Player" alt="Music Player"/>
+<img src="https://cdn.dribbble.com/users/1998175/screenshots/15459984/media/e3d25f4d4d8cfbc5d0ddf93986377953.png?compress=1&resize=400x300&vertical=top" width="180" alt="Music Player"/>
 <br/>
-<sub><b>🎧 Immersive Player</b></sub>
+<sub><b>Player</b></sub>
 </td>
 <td align="center">
-<img src="https://via.placeholder.com/200x400/f093fb/ffffff?text=📋+Playlists" alt="Playlists"/>
+<img src="https://cdn.dribbble.com/users/957817/screenshots/15218951/media/614c9d3f8e7d4b2f3eef097c0636cc8c.png?compress=1&resize=400x300" width="180" alt="Playlists"/>
 <br/>
-<sub><b>📋 Smart Playlists</b></sub>
+<sub><b>Playlists</b></sub>
 </td>
 <td align="center">
-<img src="https://via.placeholder.com/200x400/4facfe/ffffff?text=🔍+Discover" alt="Discovery"/>
+<img src="https://cdn.dribbble.com/users/2525612/screenshots/15874303/media/64e7d695876311e98d01e410717cc3fe.jpg?compress=1&resize=400x300" width="180" alt="Explore"/>
 <br/>
-<sub><b>🔍 Music Discovery</b></sub>
+<sub><b>Explore</b></sub>
 </td>
 </tr>
 </table>
 
 <div align="center">
-
-### 🎬 **Experience the Magic**
-
-https://github.com/user-attachments/assets/[YOUR-VIDEO-ID-HERE]
-
-*Discover how music comes alive with our innovative interface*
-
-### 📥 **Get Started Today**
-
-[![Download APK](https://img.shields.io/badge/Download_APK-667EEA?style=for-the-badge&logo=android&logoColor=white)](https://github.com/yourusername/project-beta/releases/latest/download/project-beta.apk)
-[![GitHub](https://img.shields.io/badge/View_Source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/project-beta)
-
-**Revolutionary Features:**
-- 🎨 **Visual Audio** - Real-time visualizations sync with your music
-- 🤖 **AI Recommendations** - Personalized playlists that learn your taste
-- 🎙️ **Voice Control** - Hands-free music control with voice commands
-- 🌐 **Social Sharing** - Share your musical moments with friends
-
+  <p><i>Premium music experience with fluid animations and offline capabilities</i></p>
+  
+  [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com)
+  [![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com)
+  [![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/nayanm07/melosync)
 </div>
 
----
+#### ✨ Key Features:
+- 🎵 **Advanced Audio Controls** with Track Player API
+- 🌊 **Fluid UI Animations** for seamless experience
+- 📱 **Offline Mode** with SQLite local storage
+- 📊 **Audio Visualizer** using custom Canvas components
+- 🎨 **Custom Design System** built from scratch
 
-## 🛠️ **Tech Stack & Architecture**
+#### 🛠️ Tech Stack:
+```javascript
+{
+  frontend: ["React Native", "MobX", "React Native Track Player"],
+  backend: ["Node.js", "Express", "MongoDB"],
+  storage: ["AsyncStorage", "SQLite"],
+  design: ["React Native Skia", "Custom Animation Hooks"],
+  deployment: ["Fastlane", "GitHub Actions"]
+}
+```
+
+## 🧠 My Development Philosophy
 
 <div align="center">
 
-<table>
-<tr>
-<th>🏗️ Architecture</th>
-<th>🎨 UI/UX</th>
-<th>⚡ Performance</th>
-<th>🔧 Tools</th>
-</tr>
-<tr>
-<td>
-
-- **MVVM Pattern**
-- **Clean Architecture**
-- **Dependency Injection**
-- **Repository Pattern**
-
-</td>
-<td>
-
-- **Material Design 3**
-- **Custom Design System**
-- **Lottie Animations**
-- **Motion Graphics**
-
-</td>
-<td>
-
-- **Jetpack Compose**
-- **Coroutines & Flow**
-- **Image Optimization**
-- **Memory Management**
-
-</td>
-<td>
-
-- **Android Studio**
-- **Figma Design**
-- **Git & GitHub**
-- **Firebase Suite**
-
-</td>
-</tr>
-</table>
+```
+"Every pixel matters. Every millisecond counts."
+```
 
 </div>
 
----
+### 🏆 Principles I Follow:
 
-## 📊 **Impact & Metrics**
+- **Component-First Design**: Building scalable, reusable components
+- **Performance Optimization**: Ensuring smooth 60fps animations
+- **Accessibility Focus**: Making apps usable by everyone
+- **Clean Architecture**: Separation of concerns for maintainable code
+- **Atomic Design System**: Building from atoms to organisms
+- **Native Feel**: Ensuring the app feels native on both platforms
+
+## 📈 Mobile Development Metrics I Value
 
 <div align="center">
 
-| 📈 Metric | 🎯 Achievement | 📱 User Feedback |
-|-----------|----------------|------------------|
-| **Performance Score** | 98/100 | *"Incredibly smooth and responsive"* |
-| **User Retention** | 85% (30-day) | *"I can't stop using this app!"* |
-| **App Store Rating** | ⭐⭐⭐⭐⭐ 4.8/5 | *"Best design I've ever seen"* |
-| **Load Time** | < 2 seconds | *"Lightning fast experience"* |
+| Metric | Target | Why It Matters |
+|--------|--------|---------------|
+| **JS Thread FPS** | ≥58fps | Smooth animations are essential for user experience |
+| **TTI (Time to Interactive)** | <2s | Users abandon apps that take >3s to load |
+| **Bundle Size** | <8MB | Smaller apps get more installations |
+| **Crash-Free Sessions** | >99.9% | Reliability builds user trust |
+| **Accessibility Score** | >90% | Everyone deserves to use great apps |
 
 </div>
 
----
+## 📚 Latest Blog Posts
 
-## 🎨 **Design Philosophy**
+<!-- BLOG-POST-LIST:START -->
+- [Building Buttery-Smooth Animations in React Native](https://nayanmehta.dev/blog/smooth-animations)
+- [Advanced State Management Patterns for React Native Apps](https://nayanmehta.dev/blog/state-management)
+- [Optimizing React Native for Performance - My Approach](https://nayanmehta.dev/blog/performance-optimization)
+<!-- BLOG-POST-LIST:END -->
+
+## 🔮 What's Next?
 
 <div align="center">
 
-> *"Great design is not just what it looks like and feels like.  
-> Great design is how it works."* - Steve Jobs
+| Project | Status | Timeline |
+|---------|--------|----------|
+| **React Native UI Kit** | 🟡 In Progress | Q3 2024 |
+| **Mobile Animation Course** | 🔵 Planning | Q4 2024 |
+| **Custom Navigation Library** | 🟢 Research | Q1 2025 |
+| **AR Shopping Experience** | 💭 Ideation | 2025 |
 
 </div>
 
-**Our Design Principles:**
-
-🎯 **User-Centric** - Every decision is made with the user in mind  
-⚡ **Performance First** - Beautiful interfaces that never compromise speed  
-🎨 **Aesthetic Excellence** - Pixel-perfect designs that inspire  
-♿ **Inclusive Design** - Accessible to users of all abilities  
-
----
-
-## 🚀 **What's Next?**
+## 📫 Get In Touch
 
 <div align="center">
 
-### 🔮 **Coming Soon**
+Have an exciting mobile project? Need a React Native expert? Want to collaborate?
 
-| 🌟 Feature | 📋 Status | 📅 Timeline |
-|------------|-----------|-------------|
-| **iOS Version** | 🔨 In Development | Q2 2025 |
-| **Web Dashboard** | 🎨 Design Phase | Q3 2025 |
-| **AI Integration** | 🧠 Research Phase | Q4 2025 |
-| **AR Features** | 💭 Conceptual | 2026 |
-
-</div>
-
----
-
-## 🤝 **Let's Connect & Collaborate**
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://yourportfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-### 💬 **Open for Opportunities**
-
-*Freelance Projects • Full-time Roles • Collaboration • Mentorship*
-
----
-
-### 📈 **Repository Stats**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
----
-
-*Crafting the future of mobile experiences, one pixel at a time* ✨
-
-![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge)
+[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nayanmehta2004@gmail.com)
+[![Calendly](https://img.shields.io/badge/Schedule_Meeting-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white)](https://calendly.com/nayanmehta)
 
 </div>
 
 ---
 
 <div align="center">
-<sub>💡 <b>Pro Tip:</b> Star this repository if you found it inspiring! It helps other developers discover great design patterns 🌟</sub>
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
+  
+  <sub>💡 <b>Pro Tip:</b> Check out my pinned repositories below to see my best mobile projects! ⬇️</sub>
+</div> 
