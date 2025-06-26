@@ -97,6 +97,7 @@ const nayan = {
   <img src="https://img.shields.io/badge/Home-0072ff?style=for-the-badge" alt="Home" />
   <img src="https://img.shields.io/badge/Products-0072ff?style=for-the-badge" alt="Products" />
   <img src="https://img.shields.io/badge/Cart-0072ff?style=for-the-badge" alt="Cart" />
+  
 </div>
 
 <div align="center">
