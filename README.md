@@ -89,27 +89,22 @@ const nayan = {
 <div align="center">
   <table>
     <tr>
-      <td width="50%">
-        <img src="https://via.placeholder.com/400x800/1a1a1a/ffffff?text=App+Screenshot" alt="ShopEase Screenshot" width="100%" style="border-radius: 15px;">
+      <td width="40%">
+        <img src="https://res.cloudinary.com/dggcrjjv8/image/upload/v1750446534/portfolio/app/elpico/q2uipgfnrhsfokubijpg.jpg" alt="ShopEase Screenshot" width="60%" style="border-radius: 15px;">
         <br><br>
         <b>📱 Single View</b>
       </td>
       <td width="50%">
-        <!-- Option 1: Direct GIF from your repo -->
-        <img src="https://github.com/nayanm07/your-repo/raw/main/demo/shopeasy-demo.gif" alt="ShopEase Demo" width="100%" style="border-radius: 15px;">
-        <br>
-        <!-- Option 2: YouTube Video Thumbnail that links to video -->
-        <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" target="_blank">
-          <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg" alt="ShopEase Demo Video" width="100%" style="border-radius: 15px;">
-          <br>
-          <img src="https://img.shields.io/badge/▶️_Watch_Demo-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo" />
-        </a>
-        <br><br>
-        <b>🎥 Full Demo Video</b>
-      </td>
-    </tr>
+       
+        
+
+https://github.com/user-attachments/assets/5f397efc-ac0e-46c5-983e-e72ce15fc46b
+
+
   </table>
 </div>
+ 
+
 
 **✨ Features:**
 - 🛒 Seamless shopping experience
