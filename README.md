@@ -3,8 +3,6 @@
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
 </div>
 
-
-
 <h1 align="center">✨ Nayan Mehta ✨</h1>
 <h3 align="center">🚀 React Native Architect | Mobile Experience Designer 📱</h3>
 
@@ -15,8 +13,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nayanmehta2004@gmail.com)
 
 </div>
-
-
 
 ## 👨‍💻 About Me
 
@@ -70,7 +66,6 @@ const nayan = {
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
 
-
 ## 📱 Featured Mobile Apps
 
 <div align="center">
@@ -81,11 +76,223 @@ const nayan = {
 
 </div>
 
+---
 
+## 🎯 App Showcase
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=80&section=header&text=My%20Apps&fontSize=30&fontColor=fff" width="100%">
+</div>
+
+### 🛍️ ShopEase - E-commerce Mobile App
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://via.placeholder.com/400x800/1a1a1a/ffffff?text=App+Screenshot" alt="ShopEase Screenshot" width="100%" style="border-radius: 15px;">
+        <br><br>
+        <b>📱 Single View</b>
+      </td>
+      <td width="50%">
+        <!-- Option 1: Direct GIF from your repo -->
+        <img src="https://github.com/nayanm07/your-repo/raw/main/demo/shopeasy-demo.gif" alt="ShopEase Demo" width="100%" style="border-radius: 15px;">
+        <br>
+        <!-- Option 2: YouTube Video Thumbnail that links to video -->
+        <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" target="_blank">
+          <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg" alt="ShopEase Demo Video" width="100%" style="border-radius: 15px;">
+          <br>
+          <img src="https://img.shields.io/badge/▶️_Watch_Demo-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo" />
+        </a>
+        <br><br>
+        <b>🎥 Full Demo Video</b>
+      </td>
+    </tr>
+  </table>
+</div>
+
+**✨ Features:**
+- 🛒 Seamless shopping experience
+- 💳 Secure payment integration
+- 🔍 Smart search & filters
+- ⭐ User reviews & ratings
+
+**🎬 Demo Links:**
+- 📺 [YouTube Demo](https://www.youtube.com/watch?v=YOUR_VIDEO_ID) 
+- 🎥 [Loom Walkthrough](https://www.loom.com/share/YOUR_LOOM_ID)
+- 📱 [App Preview](https://github.com/nayanm07/your-repo/raw/main/demo/app-preview.mp4)
+
+<div align="center">
+  <a href="https://apps.apple.com/app/your-app-id">
+    <img src="https://img.shields.io/badge/Download_on_the-App_Store-black?style=for-the-badge&logo=apple&logoColor=white" alt="Download on App Store" />
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=your.package.name">
+    <img src="https://img.shields.io/badge/Get_it_on-Google_Play-green?style=for-the-badge&logo=google-play&logoColor=white" alt="Get it on Google Play" />
+  </a>
+  <a href="https://github.com/nayanm07/your-app-repo/releases/latest/download/app.apk">
+    <img src="https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android&logoColor=white" alt="Download APK" />
+  </a>
+</div>
+
+---
+
+### 🍔 FoodDelivery - Food Ordering App
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://via.placeholder.com/400x800/ff6b35/ffffff?text=Food+App+Screenshot" alt="FoodDelivery Screenshot" width="100%" style="border-radius: 15px;">
+        <br><br>
+        <b>📱 Single View</b>
+      </td>
+      <td width="50%">
+        <!-- Option 3: Embedded Video (works with some platforms) -->
+        <video width="100%" style="border-radius: 15px;" controls>
+          <source src="https://github.com/nayanm07/your-repo/raw/main/demo/food-app-demo.mp4" type="video/mp4">
+          <!-- Fallback for browsers that don't support video tag -->
+          <a href="https://github.com/nayanm07/your-repo/raw/main/demo/food-app-demo.mp4">
+            <img src="https://via.placeholder.com/800x400/ff8c42/ffffff?text=▶️+Click+to+Watch+Demo" alt="Food App Demo" width="100%" style="border-radius: 15px;">
+          </a>
+        </video>
+        <br><br>
+        <b>🎥 Demo Video</b>
+      </td>
+    </tr>
+  </table>
+</div>
+
+**✨ Features:**
+- 🍕 Browse restaurants & cuisines
+- 📍 Real-time order tracking
+- 💰 Multiple payment options
+- ⏰ Quick delivery scheduling
+
+<div align="center">
+  <a href="https://apps.apple.com/app/your-food-app-id">
+    <img src="https://img.shields.io/badge/Download_on_the-App_Store-black?style=for-the-badge&logo=apple&logoColor=white" alt="Download on App Store" />
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=your.food.package.name">
+    <img src="https://img.shields.io/badge/Get_it_on-Google_Play-green?style=for-the-badge&logo=google-play&logoColor=white" alt="Get it on Google Play" />
+  </a>
+  <a href="https://github.com/nayanm07/your-food-app-repo/releases/latest/download/food-app.apk">
+    <img src="https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android&logoColor=white" alt="Download APK" />
+  </a>
+</div>
+
+---
+
+### 💬 ChatConnect - Messaging App
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://via.placeholder.com/400x800/4a90e2/ffffff?text=Chat+App+Screenshot" alt="ChatConnect Screenshot" width="100%" style="border-radius: 15px;">
+        <br><br>
+        <b>📱 Single View</b>
+      </td>
+      <td width="50%">
+        <img src="https://via.placeholder.com/800x400/5ba0f2/ffffff?text=Chat+Demo+View" alt="ChatConnect Demo" width="100%" style="border-radius: 15px;">
+        <br><br>
+        <b>🎥 Full Demo View</b>
+      </td>
+    </tr>
+  </table>
+</div>
+
+**✨ Features:**
+- 💬 Real-time messaging
+- 🔒 End-to-end encryption
+- 📎 File & media sharing
+- 👥 Group chat functionality
+
+<div align="center">
+  <a href="https://github.com/nayanm07/your-chat-app-repo/releases/latest/download/chat-app.apk">
+    <img src="https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android&logoColor=white" alt="Download APK" />
+  </a>
+  <a href="https://github.com/nayanm07/your-chat-app-repo">
+    <img src="https://img.shields.io/badge/View_on-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="View on GitHub" />
+  </a>
+</div>
+
+---
+
+### 🎵 MusicStream - Music Player App
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://via.placeholder.com/400x800/9b59b6/ffffff?text=Music+App+Screenshot" alt="MusicStream Screenshot" width="100%" style="border-radius: 15px;">
+        <br><br>
+        <b>📱 Single View</b>
+      </td>
+      <td width="50%">
+        <img src="https://via.placeholder.com/800x400/be7bbe/ffffff?text=Music+Demo+View" alt="MusicStream Demo" width="100%" style="border-radius: 15px;">
+        <br><br>
+        <b>🎥 Full Demo View</b>
+      </td>
+    </tr>
+  </table>
+</div>
+
+**✨ Features:**
+- 🎶 High-quality audio streaming
+- 📋 Custom playlist creation
+- 🎨 Beautiful UI animations
+- 🔄 Offline mode support
+
+<div align="center">
+  <a href="https://play.google.com/store/apps/details?id=your.music.package.name">
+    <img src="https://img.shields.io/badge/Get_it_on-Google_Play-green?style=for-the-badge&logo=google-play&logoColor=white" alt="Get it on Google Play" />
+  </a>
+  <a href="https://github.com/nayanm07/your-music-app-repo/releases/latest/download/music-app.apk">
+    <img src="https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android&logoColor=white" alt="Download APK" />
+  </a>
+</div>
+
+---
+
+## 🎥 Video Integration Methods
+
+Here are the different ways to add videos to your README:
+
+### Method 1: GIF Files (Recommended for GitHub)
+```markdown
+![App Demo](https://github.com/username/repo/raw/main/demo/app-demo.gif)
+```
+
+### Method 2: YouTube Video Thumbnail + Link
+```markdown
+[![Video Title](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+```
+
+### Method 3: Video Badge Links
+```markdown
+[![Demo Video](https://img.shields.io/badge/▶️_Watch_Demo-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+```
+
+### Method 4: Multiple Platform Links
+```markdown
+**🎬 Demo Links:**
+- 📺 [YouTube Demo](https://www.youtube.com/watch?v=YOUR_VIDEO_ID) 
+- 🎥 [Loom Walkthrough](https://www.loom.com/share/YOUR_LOOM_ID)
+- 📱 [Drive Video](https://drive.google.com/file/d/YOUR_FILE_ID/view)
+```
+
+### Method 5: HTML5 Video (Limited Support)
+```html
+<video width="100%" controls>
+  <source src="https://github.com/username/repo/raw/main/demo/video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+```
+
+---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
   
   <sub>💡 <b>Pro Tip:</b> Check out my pinned repositories below to see my best mobile projects! ⬇️</sub>
-</div> 
+</div>
