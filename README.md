@@ -23,16 +23,15 @@
 ```javascript
 const nayan = {
   location: "India 🇮🇳",
-  currentFocus: "Building cross-platform mobile experiences",
-  learning: ["Advanced React Native Animations", "Native Modules", "MERN"],
-  askMeAbout: ["mobile dev", "UI/UX", "tech", "coffee"],
-  funFact: "I debug with dancing cat GIFs open in another window",
-  dailyRoutine: ["code", "coffee", "more code", "repeat"]
-};
+  focus: "Cross-platform mobile development",
+  learning: ["React Native", "Native Modules", "MERN Stack"],
+  expertise: ["Mobile Development", "UI/UX Design", "Full-stack"],
+  interests: ["Technology", "Innovation", "Problem Solving"]
+}
 ```
 
 - 🔭 Currently crafting **Beautiful Mobile Experiences**
-- 🌱 Exploring the depths of **React Native & MERN Stack**
+- 🌱 Exploring the depths of **React Native**
 - 📫 Reach me at **nayanmehta2004@gmail.com**
 
 ## 🌐 Connect With Me
@@ -77,8 +76,8 @@ const nayan = {
 <div align="center">
 
 [![React Native](https://img.shields.io/badge/React_Native-Expert-61DAFB?style=for-the-badge&logo=react)](https://reactnative.dev/)
-[![Apps Published](https://img.shields.io/badge/Apps_Published-10+-00C7B7?style=for-the-badge&logo=android)](https://nayanmehta.dev/portfolio)
-[![Downloads](https://img.shields.io/badge/Total_Downloads-100K+-3DDC84?style=for-the-badge&logo=google-play)](https://nayanmehta.dev/metrics)
+[![Apps Published](https://img.shields.io/badge/Apps_Published-4+-00C7B7?style=for-the-badge&logo=android)](https://nayanmehta.dev/portfolio)
+[![Downloads](https://img.shields.io/badge/Total_Downloads-10K+-3DDC84?style=for-the-badge&logo=google-play)](https://nayanmehta.dev/metrics)
 
 </div>
 
